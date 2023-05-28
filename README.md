@@ -9,7 +9,7 @@ In third option we can print the class statistics where we have different to we 
       ->Average Marks for Assesment first
       ->Average Marks for Assesment second
       ->Average Marks for Assesment third
-      ->Average grade point
+      ->Average grade points
       ->No. of student who got HD grade
       ->No. of student who got D grade
       ->No. of student who got C grade
