@@ -17,8 +17,7 @@ In third option we can print the class statistics where we have different to we 
       ->No. of student who got SP grade(Supplimentry pass)
       ->No. of student who got CP grade(Complimentry pass)
       ->No. of student who got F grade(Fail)
-      
-      
+      ->for other application get into code
       
     
       
